@@ -1,0 +1,35 @@
+
+.photo{
+	width: 30%;
+	margin: 15px 15px;
+	height: auto;
+	border-radius: 2%;
+	transition: 1s;
+}
+.photo:hover{
+	transform: scale(1.1);
+	z-index: 2;
+	border: 5px solid black;
+}
+h1{
+	color: #0a3e51;
+	text-transform: uppercase;
+}
+h2{
+	color: #0a3e51;
+	text-transform: uppercase;
+	margin-left: 8%;
+	text-decoration-line: underline;
+	text-decoration-thickness: 15%;
+}
+h3{
+	font-size: 100px;
+	text-align: center;
+	
+}
+body{
+	margin: 5%;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	background-color: #e3e5e6;
+	color:#05212b;
+}
